@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\07Calculate3\bin\Debug\07Calculate3.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\07Calculate3\obj\Debug\07Calculate3.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\07Calculate3\bin\Debug\07Calculate3.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\07Calculate3\bin\Debug\07Calculate3.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\07Calculate3\obj\Debug\07Calculate3.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\07Calculate3\obj\Debug\07Calculate3.pdb

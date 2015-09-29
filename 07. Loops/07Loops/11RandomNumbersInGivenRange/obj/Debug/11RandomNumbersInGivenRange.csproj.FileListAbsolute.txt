@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\11RandomNumbersInGivenRange\bin\Debug\11RandomNumbersInGivenRange.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\11RandomNumbersInGivenRange\bin\Debug\11RandomNumbersInGivenRange.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\11RandomNumbersInGivenRange\bin\Debug\11RandomNumbersInGivenRange.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\11RandomNumbersInGivenRange\obj\Debug\11RandomNumbersInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\11RandomNumbersInGivenRange\obj\Debug\11RandomNumbersInGivenRange.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\11RandomNumbersInGivenRange\obj\Debug\11RandomNumbersInGivenRange.pdb

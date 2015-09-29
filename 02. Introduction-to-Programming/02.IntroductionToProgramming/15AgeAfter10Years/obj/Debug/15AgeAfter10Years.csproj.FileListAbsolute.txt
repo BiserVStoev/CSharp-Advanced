@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\15AgeAfter10Years\bin\Debug\15AgeAfter10Years.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\15AgeAfter10Years\bin\Debug\15AgeAfter10Years.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\15AgeAfter10Years\bin\Debug\15AgeAfter10Years.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\15AgeAfter10Years\obj\Debug\15AgeAfter10Years.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\15AgeAfter10Years\obj\Debug\15AgeAfter10Years.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\15AgeAfter10Years\obj\Debug\15AgeAfter10Years.pdb

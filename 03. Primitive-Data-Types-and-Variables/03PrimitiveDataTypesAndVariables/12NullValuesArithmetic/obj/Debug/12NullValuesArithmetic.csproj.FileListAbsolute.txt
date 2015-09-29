@@ -1,0 +1,8 @@
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.exe.config
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.exe
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.pdb
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\12NullValuesArithmetic\obj\Debug\12NullValuesArithmetic.exe
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\12NullValuesArithmetic\obj\Debug\12NullValuesArithmetic.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\12NullValuesArithmetic\bin\Debug\12NullValuesArithmetic.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\12NullValuesArithmetic\obj\Debug\12NullValuesArithmetic.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\12NullValuesArithmetic\obj\Debug\12NullValuesArithmetic.pdb

@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\03MatrixOfPolindromes\bin\Debug\03MatrixOfPolindromes.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\03MatrixOfPolindromes\obj\Debug\03MatrixOfPolindromes.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\03MatrixOfPolindromes\bin\Debug\03MatrixOfPolindromes.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\03MatrixOfPolindromes\bin\Debug\03MatrixOfPolindromes.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\03MatrixOfPolindromes\obj\Debug\03MatrixOfPolindromes.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\03MatrixOfPolindromes\obj\Debug\03MatrixOfPolindromes.pdb

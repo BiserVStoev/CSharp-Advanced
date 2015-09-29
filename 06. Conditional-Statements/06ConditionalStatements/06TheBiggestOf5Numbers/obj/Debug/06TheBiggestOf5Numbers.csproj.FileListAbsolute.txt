@@ -1,0 +1,1 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\06TheBiggestOf5Numbers\bin\Debug\06TheBiggestOf5Numbers.exe.config

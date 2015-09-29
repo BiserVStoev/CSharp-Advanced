@@ -1,0 +1,5 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\12RandomizeTheNumbersFrom1ToN\bin\Debug\12RandomizeTheNumbersFrom1ToN.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\12RandomizeTheNumbersFrom1ToN\bin\Debug\12RandomizeTheNumbersFrom1ToN.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\12RandomizeTheNumbersFrom1ToN\bin\Debug\12RandomizeTheNumbersFrom1ToN.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\12RandomizeTheNumbersFrom1ToN\obj\Debug\12RandomizeTheNumbersFrom1ToN.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\12RandomizeTheNumbersFrom1ToN\obj\Debug\12RandomizeTheNumbersFrom1ToN.pdb

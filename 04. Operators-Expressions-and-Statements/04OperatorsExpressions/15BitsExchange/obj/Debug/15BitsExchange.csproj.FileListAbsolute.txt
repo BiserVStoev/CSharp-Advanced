@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\15BitsExchange\bin\Debug\15BitsExchange.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\15BitsExchange\bin\Debug\15BitsExchange.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\15BitsExchange\bin\Debug\15BitsExchange.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\15BitsExchange\obj\Debug\15BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\15BitsExchange\obj\Debug\15BitsExchange.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\15BitsExchange\obj\Debug\15BitsExchange.pdb

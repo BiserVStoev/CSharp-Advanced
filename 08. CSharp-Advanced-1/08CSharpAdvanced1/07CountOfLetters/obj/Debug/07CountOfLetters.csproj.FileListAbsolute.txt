@@ -1,0 +1,5 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\07CountOfLetters\bin\Debug\07CountOfLetters.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\07CountOfLetters\bin\Debug\07CountOfLetters.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\07CountOfLetters\bin\Debug\07CountOfLetters.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\07CountOfLetters\obj\Debug\07CountOfLetters.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\07CountOfLetters\obj\Debug\07CountOfLetters.pdb

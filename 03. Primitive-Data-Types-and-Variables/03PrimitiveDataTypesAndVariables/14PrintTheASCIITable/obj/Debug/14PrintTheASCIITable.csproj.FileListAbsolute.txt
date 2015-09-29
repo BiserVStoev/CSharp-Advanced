@@ -1,0 +1,5 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\14PrintTheASCIITable\bin\Debug\14PrintTheASCIITable.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\14PrintTheASCIITable\bin\Debug\14PrintTheASCIITable.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\14PrintTheASCIITable\bin\Debug\14PrintTheASCIITable.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\14PrintTheASCIITable\obj\Debug\14PrintTheASCIITable.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\14PrintTheASCIITable\obj\Debug\14PrintTheASCIITable.pdb

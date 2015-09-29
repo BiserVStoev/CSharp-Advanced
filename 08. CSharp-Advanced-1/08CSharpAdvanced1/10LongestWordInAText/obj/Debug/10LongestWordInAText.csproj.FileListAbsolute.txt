@@ -1,0 +1,1 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\10LongestWordInAText\bin\Debug\10LongestWordInAText.exe.config

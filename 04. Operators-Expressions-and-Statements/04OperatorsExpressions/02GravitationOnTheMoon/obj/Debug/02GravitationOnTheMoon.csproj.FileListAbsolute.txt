@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.pdb

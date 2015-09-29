@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\13CheckABitAtGivenPosition\bin\Debug\13CheckABitAtGivenPosition.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\13CheckABitAtGivenPosition\bin\Debug\13CheckABitAtGivenPosition.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\13CheckABitAtGivenPosition\bin\Debug\13CheckABitAtGivenPosition.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\13CheckABitAtGivenPosition\obj\Debug\13CheckABitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\13CheckABitAtGivenPosition\obj\Debug\13CheckABitAtGivenPosition.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\13CheckABitAtGivenPosition\obj\Debug\13CheckABitAtGivenPosition.pdb

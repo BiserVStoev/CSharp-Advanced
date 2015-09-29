@@ -1,0 +1,5 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\02NumbersNotDivisibleBy3And7\bin\Debug\02NumbersNotDivisibleBy3And7.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\02NumbersNotDivisibleBy3And7\obj\Debug\02NumbersNotDivisibleBy3And7.pdb

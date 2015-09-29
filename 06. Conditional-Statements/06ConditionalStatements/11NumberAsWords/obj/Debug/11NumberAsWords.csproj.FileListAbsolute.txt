@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\11NumberAsWords\bin\Debug\11NumberAsWords.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\11NumberAsWords\bin\Debug\11NumberAsWords.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\11NumberAsWords\bin\Debug\11NumberAsWords.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\11NumberAsWords\obj\Debug\11NumberAsWords.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\11NumberAsWords\obj\Debug\11NumberAsWords.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\11NumberAsWords\obj\Debug\11NumberAsWords.pdb

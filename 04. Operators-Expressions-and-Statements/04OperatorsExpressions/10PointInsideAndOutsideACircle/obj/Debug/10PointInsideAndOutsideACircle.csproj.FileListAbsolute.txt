@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\10PointInsideAndOutsideACircle\bin\Debug\10PointInsideAndOutsideACircle.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\10PointInsideAndOutsideACircle\bin\Debug\10PointInsideAndOutsideACircle.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\10PointInsideAndOutsideACircle\bin\Debug\10PointInsideAndOutsideACircle.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\10PointInsideAndOutsideACircle\obj\Debug\10PointInsideAndOutsideACircle.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\10PointInsideAndOutsideACircle\obj\Debug\10PointInsideAndOutsideACircle.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\10PointInsideAndOutsideACircle\obj\Debug\10PointInsideAndOutsideACircle.pdb

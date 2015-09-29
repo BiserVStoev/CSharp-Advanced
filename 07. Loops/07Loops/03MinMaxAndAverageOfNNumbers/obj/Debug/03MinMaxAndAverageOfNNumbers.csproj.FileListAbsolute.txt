@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\03MinMaxAndAverageOfNNumbers\bin\Debug\03MinMaxAndAverageOfNNumbers.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\03MinMaxAndAverageOfNNumbers\bin\Debug\03MinMaxAndAverageOfNNumbers.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\03MinMaxAndAverageOfNNumbers\bin\Debug\03MinMaxAndAverageOfNNumbers.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\03MinMaxAndAverageOfNNumbers\obj\Debug\03MinMaxAndAverageOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\03MinMaxAndAverageOfNNumbers\obj\Debug\03MinMaxAndAverageOfNNumbers.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\03MinMaxAndAverageOfNNumbers\obj\Debug\03MinMaxAndAverageOfNNumbers.pdb

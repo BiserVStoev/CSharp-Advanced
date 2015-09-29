@@ -1,0 +1,10 @@
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\11BankAccountData\bin\Debug\11BankAccountData.exe.config
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\11BankAccountData\bin\Debug\11BankAccountData.exe
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\11BankAccountData\bin\Debug\11BankAccountData.pdb
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\11BankAccountData\obj\Debug\11BankAccountData.exe
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\11BankAccountData\obj\Debug\11BankAccountData.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\11BankAccountData\bin\Debug\11BankAccountData.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\11BankAccountData\obj\Debug\11BankAccountData.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\11BankAccountData\obj\Debug\11BankAccountData.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\11BankAccountData\bin\Debug\11BankAccountData.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\11BankAccountData\bin\Debug\11BankAccountData.pdb

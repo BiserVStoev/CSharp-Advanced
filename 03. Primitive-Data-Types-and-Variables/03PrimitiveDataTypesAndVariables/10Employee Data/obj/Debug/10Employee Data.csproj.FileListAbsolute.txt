@@ -1,0 +1,10 @@
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\10Employee Data\bin\Debug\10Employee Data.exe.config
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\10Employee Data\bin\Debug\10Employee Data.exe
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\10Employee Data\bin\Debug\10Employee Data.pdb
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\10Employee Data\obj\Debug\10Employee Data.exe
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\10Employee Data\obj\Debug\10Employee Data.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\10Employee Data\bin\Debug\10Employee Data.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\10Employee Data\obj\Debug\10Employee Data.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\10Employee Data\obj\Debug\10Employee Data.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\10Employee Data\bin\Debug\10Employee Data.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\10Employee Data\bin\Debug\10Employee Data.pdb

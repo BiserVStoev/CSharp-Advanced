@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\18TrailingZeroesInN\bin\Debug\18TrailingZeroesInN.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\18TrailingZeroesInN\bin\Debug\18TrailingZeroesInN.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\18TrailingZeroesInN\bin\Debug\18TrailingZeroesInN.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\18TrailingZeroesInN\obj\Debug\18TrailingZeroesInN.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\18TrailingZeroesInN\obj\Debug\18TrailingZeroesInN.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\18TrailingZeroesInN\obj\Debug\18TrailingZeroesInN.pdb

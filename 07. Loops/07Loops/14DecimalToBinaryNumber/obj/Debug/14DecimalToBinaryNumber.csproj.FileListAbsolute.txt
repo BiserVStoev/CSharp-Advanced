@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\14DecimalToBinaryNumber\bin\Debug\14DecimalToBinaryNumber.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\14DecimalToBinaryNumber\bin\Debug\14DecimalToBinaryNumber.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\14DecimalToBinaryNumber\bin\Debug\14DecimalToBinaryNumber.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\14DecimalToBinaryNumber\obj\Debug\14DecimalToBinaryNumber.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\14DecimalToBinaryNumber\obj\Debug\14DecimalToBinaryNumber.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\14DecimalToBinaryNumber\obj\Debug\14DecimalToBinaryNumber.pdb

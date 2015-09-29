@@ -1,0 +1,1 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\12CountingAWordInAText\bin\Debug\12CountingAWordInAText.exe.config

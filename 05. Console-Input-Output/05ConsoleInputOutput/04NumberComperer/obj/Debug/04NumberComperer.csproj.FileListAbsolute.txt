@@ -1,0 +1,8 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\04NumberComperer\bin\Debug\04NumberComperer.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\04NumberComperer\bin\Debug\04NumberComperer.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\04NumberComperer\bin\Debug\04NumberComperer.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\04NumberComperer\obj\Debug\04NumberComperer.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\04NumberComperer\obj\Debug\04NumberComperer.pdb
+D:\SoftUni\C# Basic\05. Console-Input-Output\05ConsoleInputOutput\04NumberComperer\bin\Debug\04NumberComperer.exe.config
+D:\SoftUni\C# Basic\05. Console-Input-Output\05ConsoleInputOutput\04NumberComperer\obj\Debug\04NumberComperer.exe
+D:\SoftUni\C# Basic\05. Console-Input-Output\05ConsoleInputOutput\04NumberComperer\obj\Debug\04NumberComperer.pdb

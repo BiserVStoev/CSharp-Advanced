@@ -1,0 +1,8 @@
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\03VariableInHexadecimalFormat\bin\Debug\03VariableInHexadecimalFormat.exe.config
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\03VariableInHexadecimalFormat\bin\Debug\03VariableInHexadecimalFormat.exe
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\03VariableInHexadecimalFormat\bin\Debug\03VariableInHexadecimalFormat.pdb
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\03VariableInHexadecimalFormat\obj\Debug\03VariableInHexadecimalFormat.exe
+C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\03VariableInHexadecimalFormat\obj\Debug\03VariableInHexadecimalFormat.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\03VariableInHexadecimalFormat\bin\Debug\03VariableInHexadecimalFormat.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\03VariableInHexadecimalFormat\obj\Debug\03VariableInHexadecimalFormat.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\03VariableInHexadecimalFormat\obj\Debug\03VariableInHexadecimalFormat.pdb

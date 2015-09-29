@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\16BitExchangeAdvanced\bin\Debug\16BitExchangeAdvanced.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\16BitExchangeAdvanced\bin\Debug\16BitExchangeAdvanced.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\16BitExchangeAdvanced\bin\Debug\16BitExchangeAdvanced.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\16BitExchangeAdvanced\obj\Debug\16BitExchangeAdvanced.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\16BitExchangeAdvanced\obj\Debug\16BitExchangeAdvanced.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\16BitExchangeAdvanced\obj\Debug\16BitExchangeAdvanced.pdb

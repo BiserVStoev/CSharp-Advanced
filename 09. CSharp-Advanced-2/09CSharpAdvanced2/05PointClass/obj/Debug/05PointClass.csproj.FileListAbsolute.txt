@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\05PointClass\bin\Debug\05PointClass.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\05PointClass\bin\Debug\05PointClass.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\05PointClass\bin\Debug\05PointClass.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\05PointClass\obj\Debug\05PointClass.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\05PointClass\obj\Debug\05PointClass.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\05PointClass\obj\Debug\05PointClass.pdb

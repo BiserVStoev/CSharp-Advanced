@@ -1,0 +1,14 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.C#Advanced1\08CSharpAdvanced1\01SortingNumbers\bin\Debug\01SortingNumbers.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.C#Advanced1\08CSharpAdvanced1\01SortingNumbers\bin\Debug\01SortingNumbers.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.C#Advanced1\08CSharpAdvanced1\01SortingNumbers\bin\Debug\01SortingNumbers.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.C#Advanced1\08CSharpAdvanced1\01SortingNumbers\obj\Debug\01SortingNumbers.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.C#Advanced1\08CSharpAdvanced1\01SortingNumbers\obj\Debug\01SortingNumbers.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\01SortingNumbers\bin\Debug\01SortingNumbers.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\01SortingNumbers\obj\Debug\01SortingNumbers.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\01SortingNumbers\obj\Debug\01SortingNumbers.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\01SortingNumbers\bin\Debug\01SortingNumbers.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\01SortingNumbers\bin\Debug\01SortingNumbers.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\01SortingNumbers\obj\Debug\01SortingNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\C# Basic\08. CSharp-Advanced-1\08CSharpAdvanced1\01SortingNumbers\bin\Debug\01SortingNumbers.exe.config
+D:\SoftUni\C# Basic\08. CSharp-Advanced-1\08CSharpAdvanced1\01SortingNumbers\obj\Debug\01SortingNumbers.exe
+D:\SoftUni\C# Basic\08. CSharp-Advanced-1\08CSharpAdvanced1\01SortingNumbers\obj\Debug\01SortingNumbers.pdb

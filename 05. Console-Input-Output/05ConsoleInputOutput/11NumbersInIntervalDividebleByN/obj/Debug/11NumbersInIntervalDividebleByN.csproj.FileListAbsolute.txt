@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\11NumbersInIntervalDividebleByN\bin\Debug\11NumbersInIntervalDividebleByN.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\11NumbersInIntervalDividebleByN\bin\Debug\11NumbersInIntervalDividebleByN.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\11NumbersInIntervalDividebleByN\bin\Debug\11NumbersInIntervalDividebleByN.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\11NumbersInIntervalDividebleByN\obj\Debug\11NumbersInIntervalDividebleByN.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\11NumbersInIntervalDividebleByN\obj\Debug\11NumbersInIntervalDividebleByN.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\11NumbersInIntervalDividebleByN\obj\Debug\11NumbersInIntervalDividebleByN.pdb

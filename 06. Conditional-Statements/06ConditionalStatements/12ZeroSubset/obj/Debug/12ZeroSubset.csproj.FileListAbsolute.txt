@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\12ZeroSubset\bin\Debug\12ZeroSubset.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\12ZeroSubset\obj\Debug\12ZeroSubset.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\12ZeroSubset\bin\Debug\12ZeroSubset.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\12ZeroSubset\bin\Debug\12ZeroSubset.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\12ZeroSubset\obj\Debug\12ZeroSubset.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\12ZeroSubset\obj\Debug\12ZeroSubset.pdb

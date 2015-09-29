@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\10BeerTime\bin\Debug\10BeerTime.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\10BeerTime\bin\Debug\10BeerTime.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\10BeerTime\bin\Debug\10BeerTime.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\10BeerTime\obj\Debug\10BeerTime.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\10BeerTime\obj\Debug\10BeerTime.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\10BeerTime\obj\Debug\10BeerTime.pdb

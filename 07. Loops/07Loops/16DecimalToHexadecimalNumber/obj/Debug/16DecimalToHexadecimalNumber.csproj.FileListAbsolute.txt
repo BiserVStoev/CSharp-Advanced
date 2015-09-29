@@ -1,0 +1,1 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\16DecimalToHexadecimalNumber\bin\Debug\16DecimalToHexadecimalNumber.exe.config

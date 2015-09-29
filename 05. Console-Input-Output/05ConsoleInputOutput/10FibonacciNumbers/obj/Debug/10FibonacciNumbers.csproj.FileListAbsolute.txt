@@ -1,0 +1,6 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.pdb

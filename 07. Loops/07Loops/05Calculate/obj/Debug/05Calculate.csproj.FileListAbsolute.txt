@@ -1,0 +1,5 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\05Calculate\bin\Debug\05Calculate.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\05Calculate\bin\Debug\05Calculate.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\05Calculate\bin\Debug\05Calculate.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\05Calculate\obj\Debug\05Calculate.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\05Calculate\obj\Debug\05Calculate.pdb

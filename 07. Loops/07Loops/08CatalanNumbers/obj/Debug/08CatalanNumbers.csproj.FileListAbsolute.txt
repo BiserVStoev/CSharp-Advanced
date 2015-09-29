@@ -1,0 +1,12 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\08CatalanNumbers\bin\Debug\08CatalanNumbers.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\08CatalanNumbers\bin\Debug\08CatalanNumbers.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\08CatalanNumbers\bin\Debug\08CatalanNumbers.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\08CatalanNumbers\obj\Debug\08CatalanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\08CatalanNumbers\obj\Debug\08CatalanNumbers.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\08CatalanNumbers\obj\Debug\08CatalanNumbers.pdb
+D:\SoftUni\C# Basic\07. Loops\07Loops\08CatalanNumbers\bin\Debug\08CatalanNumbers.exe.config
+D:\SoftUni\C# Basic\07. Loops\07Loops\08CatalanNumbers\obj\Debug\08CatalanNumbers.exe
+D:\SoftUni\C# Basic\07. Loops\07Loops\08CatalanNumbers\obj\Debug\08CatalanNumbers.pdb
+D:\SoftUni\C# Basic\07. Loops\07Loops\08CatalanNumbers\bin\Debug\08CatalanNumbers.exe
+D:\SoftUni\C# Basic\07. Loops\07Loops\08CatalanNumbers\bin\Debug\08CatalanNumbers.pdb
+D:\SoftUni\C# Basic\07. Loops\07Loops\08CatalanNumbers\obj\Debug\08CatalanNumbers.csprojResolveAssemblyReference.cache

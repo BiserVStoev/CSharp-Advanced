@@ -1,0 +1,5 @@
+C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\02PrimeChecker\bin\Debug\02PrimeChecker.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\02PrimeChecker\bin\Debug\02PrimeChecker.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\02PrimeChecker\bin\Debug\02PrimeChecker.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\02PrimeChecker\obj\Debug\02PrimeChecker.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\02PrimeChecker\obj\Debug\02PrimeChecker.pdb

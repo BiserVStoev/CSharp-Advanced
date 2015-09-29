@@ -1,0 +1,6 @@
+c:\users\biser\documents\visual studio 2013\Projects\04HelloWorld\14CurrentDateAndTime\bin\Debug\14CurrentDateAndTime.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\14CurrentDateAndTime\bin\Debug\14CurrentDateAndTime.exe.config
+C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\14CurrentDateAndTime\bin\Debug\14CurrentDateAndTime.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\14CurrentDateAndTime\bin\Debug\14CurrentDateAndTime.pdb
+C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\14CurrentDateAndTime\obj\Debug\14CurrentDateAndTime.exe
+C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\14CurrentDateAndTime\obj\Debug\14CurrentDateAndTime.pdb
