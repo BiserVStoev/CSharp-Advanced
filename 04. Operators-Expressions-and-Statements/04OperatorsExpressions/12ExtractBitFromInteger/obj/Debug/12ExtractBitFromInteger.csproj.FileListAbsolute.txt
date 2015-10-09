@@ -1,6 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.pdb

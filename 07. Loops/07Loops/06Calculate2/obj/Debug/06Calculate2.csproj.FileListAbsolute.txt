@@ -1,6 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\06Calculate2\bin\Debug\06Calculate2.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\06Calculate2\bin\Debug\06Calculate2.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\06Calculate2\bin\Debug\06Calculate2.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\06Calculate2\obj\Debug\06Calculate2.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\06Calculate2\obj\Debug\06Calculate2.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\06Calculate2\obj\Debug\06Calculate2.pdb

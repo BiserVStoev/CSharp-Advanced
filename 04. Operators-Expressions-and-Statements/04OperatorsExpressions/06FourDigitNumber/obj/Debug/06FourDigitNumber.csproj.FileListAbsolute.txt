@@ -1,5 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\06FourDigitNumber\bin\Debug\06FourDigitNumber.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb

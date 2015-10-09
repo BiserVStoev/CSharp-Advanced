@@ -1,6 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\09MatrixOfNumbers\obj\Debug\09MatrixOfNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\09MatrixOfNumbers\obj\Debug\09MatrixOfNumbers.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\09MatrixOfNumbers\obj\Debug\09MatrixOfNumbers.pdb

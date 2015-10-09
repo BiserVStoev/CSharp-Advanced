@@ -1,6 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\09.CSharpAdvanced2\09CSharpAdvanced2\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.pdb

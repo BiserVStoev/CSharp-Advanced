@@ -1,8 +1,0 @@
-c:\users\biser\documents\visual studio 2013\Projects\04HelloWorld\06PrintNumbers\bin\Debug\06PrintNumbers.exe.config
-c:\users\biser\documents\visual studio 2013\Projects\04HelloWorld\06PrintNumbers\bin\Debug\06PrintNumbers.exe
-c:\users\biser\documents\visual studio 2013\Projects\04HelloWorld\06PrintNumbers\bin\Debug\06PrintNumbers.pdb
-c:\users\biser\documents\visual studio 2013\Projects\04HelloWorld\06PrintNumbers\obj\Debug\06PrintNumbers.exe
-c:\users\biser\documents\visual studio 2013\Projects\04HelloWorld\06PrintNumbers\obj\Debug\06PrintNumbers.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\06PrintNumbers\bin\Debug\06PrintNumbers.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\06PrintNumbers\obj\Debug\06PrintNumbers.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\06PrintNumbers\obj\Debug\06PrintNumbers.pdb

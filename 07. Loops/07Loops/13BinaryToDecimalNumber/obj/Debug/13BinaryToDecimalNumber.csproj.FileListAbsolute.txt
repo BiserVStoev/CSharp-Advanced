@@ -1,5 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\13BinaryToDecimalNumber\bin\Debug\13BinaryToDecimalNumber.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\13BinaryToDecimalNumber\bin\Debug\13BinaryToDecimalNumber.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\13BinaryToDecimalNumber\bin\Debug\13BinaryToDecimalNumber.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\13BinaryToDecimalNumber\obj\Debug\13BinaryToDecimalNumber.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\13BinaryToDecimalNumber\obj\Debug\13BinaryToDecimalNumber.pdb

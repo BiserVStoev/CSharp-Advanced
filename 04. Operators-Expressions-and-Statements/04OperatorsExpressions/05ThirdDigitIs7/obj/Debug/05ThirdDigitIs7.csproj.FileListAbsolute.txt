@@ -1,5 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\05ThirdDigitIs7\bin\Debug\05ThirdDigitIs7.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\05ThirdDigitIs7\bin\Debug\05ThirdDigitIs7.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\05ThirdDigitIs7\bin\Debug\05ThirdDigitIs7.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\05ThirdDigitIs7\obj\Debug\05ThirdDigitIs7.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\05ThirdDigitIs7\obj\Debug\05ThirdDigitIs7.pdb

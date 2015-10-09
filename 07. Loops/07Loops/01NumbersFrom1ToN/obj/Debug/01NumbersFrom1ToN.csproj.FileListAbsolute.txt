@@ -1,9 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\01NumbersFrom1ToN\bin\Debug\07Loops.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\01NumbersFrom1ToN\bin\Debug\07Loops.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\01NumbersFrom1ToN\bin\Debug\07Loops.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\01NumbersFrom1ToN\obj\Debug\01NumbersFrom1ToN.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\01NumbersFrom1ToN\obj\Debug\07Loops.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\01NumbersFrom1ToN\obj\Debug\07Loops.pdb
-D:\SoftUni\C# Basic\07. Loops\07Loops\01NumbersFrom1ToN\bin\Debug\07Loops.exe.config
-D:\SoftUni\C# Basic\07. Loops\07Loops\01NumbersFrom1ToN\obj\Debug\07Loops.exe
-D:\SoftUni\C# Basic\07. Loops\07Loops\01NumbersFrom1ToN\obj\Debug\07Loops.pdb

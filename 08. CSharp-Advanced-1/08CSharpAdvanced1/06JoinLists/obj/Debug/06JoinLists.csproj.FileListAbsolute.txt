@@ -1,6 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\06JoinLists\bin\Debug\06JoinLists.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\06JoinLists\obj\Debug\06JoinLists.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\06JoinLists\bin\Debug\06JoinLists.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\06JoinLists\bin\Debug\06JoinLists.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\06JoinLists\obj\Debug\06JoinLists.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\06JoinLists\obj\Debug\06JoinLists.pdb

@@ -1,6 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\13ComparingFloats\bin\Debug\13ComparingFloats.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\13ComparingFloats\bin\Debug\13ComparingFloats.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\13ComparingFloats\bin\Debug\13ComparingFloats.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\13ComparingFloats\obj\Debug\13ComparingFloats.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\13ComparingFloats\obj\Debug\13ComparingFloats.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\13ComparingFloats\obj\Debug\13ComparingFloats.pdb

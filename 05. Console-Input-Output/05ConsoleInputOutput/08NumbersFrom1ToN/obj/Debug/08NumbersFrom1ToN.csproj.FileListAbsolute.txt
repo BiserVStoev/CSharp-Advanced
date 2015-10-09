@@ -1,1 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.exe.config

@@ -1,1 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\19SpiralMatrix\bin\Debug\19SpiralMatrix.exe.config

@@ -1,5 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\05FormattingNumbers\obj\Debug\05FormattingNumbers.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\05FormattingNumbers\obj\Debug\05FormattingNumbers.pdb

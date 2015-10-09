@@ -1,6 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\15HexadecimalToDecimalNumber\bin\Debug\15HexadecimalToDecimalNumber.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\15HexadecimalToDecimalNumber\bin\Debug\15HexadecimalToDecimalNumber.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\15HexadecimalToDecimalNumber\bin\Debug\15HexadecimalToDecimalNumber.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\15HexadecimalToDecimalNumber\obj\Debug\15HexadecimalToDecimalNumber.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\15HexadecimalToDecimalNumber\obj\Debug\15HexadecimalToDecimalNumber.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\15HexadecimalToDecimalNumber\obj\Debug\15HexadecimalToDecimalNumber.pdb

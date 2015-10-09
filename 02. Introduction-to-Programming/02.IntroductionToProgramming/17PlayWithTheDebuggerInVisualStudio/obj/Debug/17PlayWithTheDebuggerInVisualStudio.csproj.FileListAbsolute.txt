@@ -1,6 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\17PlayWithTheDebuggerInVisualStudio\bin\Debug\17PlayWithTheDebuggerInVisualStudio.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\17PlayWithTheDebuggerInVisualStudio\obj\Debug\17PlayWithTheDebuggerInVisualStudio.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\17PlayWithTheDebuggerInVisualStudio\bin\Debug\17PlayWithTheDebuggerInVisualStudio.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\17PlayWithTheDebuggerInVisualStudio\bin\Debug\17PlayWithTheDebuggerInVisualStudio.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\17PlayWithTheDebuggerInVisualStudio\obj\Debug\17PlayWithTheDebuggerInVisualStudio.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\17PlayWithTheDebuggerInVisualStudio\obj\Debug\17PlayWithTheDebuggerInVisualStudio.pdb

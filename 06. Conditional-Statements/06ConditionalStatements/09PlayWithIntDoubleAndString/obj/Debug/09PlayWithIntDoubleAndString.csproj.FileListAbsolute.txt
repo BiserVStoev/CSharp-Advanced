@@ -1,1 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\06.ConditionalStatements\06ConditionalStatements\09PlayWithIntDoubleAndString\bin\Debug\09PlayWithIntDoubleAndString.exe.config

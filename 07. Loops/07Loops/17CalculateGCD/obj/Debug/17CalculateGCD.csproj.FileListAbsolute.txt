@@ -1,6 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\17CalculateGCD\bin\Debug\17CalculateGCD.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\17CalculateGCD\bin\Debug\17CalculateGCD.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\17CalculateGCD\bin\Debug\17CalculateGCD.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\17CalculateGCD\obj\Debug\17CalculateGCD.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\17CalculateGCD\obj\Debug\17CalculateGCD.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\17CalculateGCD\obj\Debug\17CalculateGCD.pdb

@@ -1,6 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\09SumOfNumbers\bin\Debug\09SumOfNumbers.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\09SumOfNumbers\bin\Debug\09SumOfNumbers.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\09SumOfNumbers\bin\Debug\09SumOfNumbers.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\09SumOfNumbers\obj\Debug\09SumOfNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\09SumOfNumbers\obj\Debug\09SumOfNumbers.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\09SumOfNumbers\obj\Debug\09SumOfNumbers.pdb

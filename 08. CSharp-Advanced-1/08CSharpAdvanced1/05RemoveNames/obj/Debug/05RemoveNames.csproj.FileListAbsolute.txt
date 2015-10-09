@@ -1,6 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\05RemoveNames\bin\Debug\05RemoveNames.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\05RemoveNames\bin\Debug\05RemoveNames.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\05RemoveNames\bin\Debug\05RemoveNames.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\05RemoveNames\obj\Debug\05RemoveNames.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\05RemoveNames\obj\Debug\05RemoveNames.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\05RemoveNames\obj\Debug\05RemoveNames.pdb

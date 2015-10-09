@@ -1,6 +1,0 @@
-c:\users\biser\documents\visual studio 2013\Projects\04HelloWorld\09PrintASequence\bin\Debug\09PrintASequence.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\09PrintASequence\bin\Debug\09PrintASequence.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\09PrintASequence\bin\Debug\09PrintASequence.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\09PrintASequence\bin\Debug\09PrintASequence.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\09PrintASequence\obj\Debug\09PrintASequence.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\09PrintASequence\obj\Debug\09PrintASequence.pdb

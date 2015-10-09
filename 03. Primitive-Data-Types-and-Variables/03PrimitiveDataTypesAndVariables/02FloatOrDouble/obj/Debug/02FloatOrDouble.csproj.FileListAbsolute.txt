@@ -1,9 +1,0 @@
-C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
-C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe
-C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\02FloatOrDouble\bin\Debug\02FloatOrDouble.pdb
-C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\02FloatOrDouble\obj\Debug\02FloatOrDouble.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
-C:\Users\Biser\Documents\Visual Studio 2013\Projects\02PrimitiveDataTypesAndVariables\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\03.PrimitiveDataTypesAndVariables\03PrimitiveDataTypesAndVariables\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb

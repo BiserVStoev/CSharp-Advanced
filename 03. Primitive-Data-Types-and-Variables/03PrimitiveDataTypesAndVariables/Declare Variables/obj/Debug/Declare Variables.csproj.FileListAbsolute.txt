@@ -1,6 +1,0 @@
-c:\users\biser\documents\visual studio 2013\Projects\Declare Variables\Declare Variables\bin\Debug\Declare Variables.exe.config
-c:\users\biser\documents\visual studio 2013\Projects\Declare Variables\Declare Variables\bin\Debug\Declare Variables.exe
-c:\users\biser\documents\visual studio 2013\Projects\Declare Variables\Declare Variables\bin\Debug\Declare Variables.pdb
-c:\users\biser\documents\visual studio 2013\Projects\Declare Variables\Declare Variables\obj\Debug\Declare Variables.csprojResolveAssemblyReference.cache
-c:\users\biser\documents\visual studio 2013\Projects\Declare Variables\Declare Variables\obj\Debug\Declare Variables.exe
-c:\users\biser\documents\visual studio 2013\Projects\Declare Variables\Declare Variables\obj\Debug\Declare Variables.pdb

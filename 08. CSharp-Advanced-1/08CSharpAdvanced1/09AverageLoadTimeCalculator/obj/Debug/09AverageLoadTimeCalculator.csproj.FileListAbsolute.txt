@@ -1,1 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\09AverageLoadTimeCalculator\bin\Debug\09AverageLoadTimeCalculator.exe.config

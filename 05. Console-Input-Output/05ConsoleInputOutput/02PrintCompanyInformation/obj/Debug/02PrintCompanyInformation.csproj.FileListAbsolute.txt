@@ -1,5 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.pdb

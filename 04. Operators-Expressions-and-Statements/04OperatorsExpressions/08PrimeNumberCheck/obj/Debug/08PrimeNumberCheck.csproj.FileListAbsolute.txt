@@ -1,5 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.pdb

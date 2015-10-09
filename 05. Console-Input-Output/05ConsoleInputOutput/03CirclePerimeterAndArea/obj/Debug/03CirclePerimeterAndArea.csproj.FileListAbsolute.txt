@@ -1,1 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\03CirclePerimeterAndArea\bin\Debug\03CirclePerimeterAndArea.exe.config

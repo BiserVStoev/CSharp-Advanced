@@ -1,6 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\08CountOfNames\bin\Debug\08CountOfNames.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\08CountOfNames\bin\Debug\08CountOfNames.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\08CountOfNames\bin\Debug\08CountOfNames.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\08CountOfNames\obj\Debug\08CountOfNames.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\08CountOfNames\obj\Debug\08CountOfNames.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\08CountOfNames\obj\Debug\08CountOfNames.pdb

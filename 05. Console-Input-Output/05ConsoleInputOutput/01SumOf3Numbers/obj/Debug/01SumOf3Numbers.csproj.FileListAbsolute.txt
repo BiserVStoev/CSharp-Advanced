@@ -1,9 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\01SumOf3Numbers\bin\Debug\01SumOf3Numbers.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\01SumOf3Numbers\bin\Debug\01SumOf3Numbers.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\01SumOf3Numbers\bin\Debug\01SumOf3Numbers.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\05.ConsoleInputOutput\05ConsoleInputOutput\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.pdb
-D:\SoftUni\C# Basic\05. Console-Input-Output\05ConsoleInputOutput\01SumOf3Numbers\bin\Debug\01SumOf3Numbers.exe.config
-D:\SoftUni\C# Basic\05. Console-Input-Output\05ConsoleInputOutput\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.exe
-D:\SoftUni\C# Basic\05. Console-Input-Output\05ConsoleInputOutput\01SumOf3Numbers\obj\Debug\01SumOf3Numbers.pdb

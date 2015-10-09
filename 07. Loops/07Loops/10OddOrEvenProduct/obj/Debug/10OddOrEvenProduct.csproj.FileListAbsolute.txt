@@ -1,6 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\10OddOrEvenProduct\bin\Debug\10OddOrEvenProduct.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\10OddOrEvenProduct\bin\Debug\10OddOrEvenProduct.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\10OddOrEvenProduct\bin\Debug\10OddOrEvenProduct.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\10OddOrEvenProduct\obj\Debug\10OddOrEvenProduct.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\10OddOrEvenProduct\obj\Debug\10OddOrEvenProduct.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\07.Loops\07Loops\10OddOrEvenProduct\obj\Debug\10OddOrEvenProduct.pdb

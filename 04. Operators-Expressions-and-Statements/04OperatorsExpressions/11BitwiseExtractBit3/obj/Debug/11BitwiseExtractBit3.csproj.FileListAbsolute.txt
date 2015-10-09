@@ -1,6 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\04.OperatorsExpressionsAndStatements\04OperatorsExpressions\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.pdb

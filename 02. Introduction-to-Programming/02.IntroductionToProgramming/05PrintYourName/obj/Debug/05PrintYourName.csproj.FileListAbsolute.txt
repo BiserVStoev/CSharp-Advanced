@@ -1,5 +1,0 @@
-c:\users\biser\documents\visual studio 2013\Projects\04HelloWorld\05PrintYourName\bin\Debug\05PrintYourName.exe.config
-c:\users\biser\documents\visual studio 2013\Projects\04HelloWorld\05PrintYourName\bin\Debug\05PrintYourName.exe
-c:\users\biser\documents\visual studio 2013\Projects\04HelloWorld\05PrintYourName\bin\Debug\05PrintYourName.pdb
-c:\users\biser\documents\visual studio 2013\Projects\04HelloWorld\05PrintYourName\obj\Debug\05PrintYourName.exe
-c:\users\biser\documents\visual studio 2013\Projects\04HelloWorld\05PrintYourName\obj\Debug\05PrintYourName.pdb

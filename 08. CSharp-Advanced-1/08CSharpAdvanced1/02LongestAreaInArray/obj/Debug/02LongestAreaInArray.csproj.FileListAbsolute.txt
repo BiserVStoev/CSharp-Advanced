@@ -1,9 +1,0 @@
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\02LongestAreaInArray\bin\Debug\02LongestAreaInArray.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\02LongestAreaInArray\bin\Debug\02LongestAreaInArray.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\02LongestAreaInArray\bin\Debug\02LongestAreaInArray.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\02LongestAreaInArray\obj\Debug\02LongestAreaInArray.csprojResolveAssemblyReference.cache
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\02LongestAreaInArray\obj\Debug\02LongestAreaInArray.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\08.CSharpAdvanced1\08CSharpAdvanced1\02LongestAreaInArray\obj\Debug\02LongestAreaInArray.pdb
-D:\SoftUni\C# Basic\08. CSharp-Advanced-1\08CSharpAdvanced1\02LongestAreaInArray\bin\Debug\02LongestAreaInArray.exe.config
-D:\SoftUni\C# Basic\08. CSharp-Advanced-1\08CSharpAdvanced1\02LongestAreaInArray\obj\Debug\02LongestAreaInArray.exe
-D:\SoftUni\C# Basic\08. CSharp-Advanced-1\08CSharpAdvanced1\02LongestAreaInArray\obj\Debug\02LongestAreaInArray.pdb

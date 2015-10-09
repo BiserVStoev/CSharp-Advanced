@@ -1,6 +1,0 @@
-c:\users\biser\documents\visual studio 2013\Projects\04HelloWorld\16PrintLongSequence\bin\Debug\16PrintLongSequence.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\16PrintLongSequence\bin\Debug\16PrintLongSequence.exe.config
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\16PrintLongSequence\bin\Debug\16PrintLongSequence.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\16PrintLongSequence\bin\Debug\16PrintLongSequence.pdb
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\16PrintLongSequence\obj\Debug\16PrintLongSequence.exe
-C:\Users\Biser\Desktop\SoftUni\C# Basic\02.IntroductionToProgramming\02.IntroductionToProgramming\16PrintLongSequence\obj\Debug\16PrintLongSequence.pdb
